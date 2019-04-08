@@ -1,0 +1,19 @@
+# E14 - Natural Language Processing Overview
+
+Research for a commercial product which uses NLP as a core(E.g. google assistant) and describes, in general words, which NLP techniques it uses.
+
+
+BIXBY
+Es el asistente virtual impulsado por Samsgung tecnologies, su lanzamiento fue para la implementación en el mercado del Galaxy S8. En sus inicios hubo mucha especulación sobre sus características, espeulando que funcionaria en hasta ocho idiomas; que se realizarán búsquedas visuales desde la cámara, etc.
+
+Una de las incógnitas más importantes es hasta qué punto Bixby se basará en la tecnología de Viv Labs (una startup fundada por los creadores de Siri que Samsung compró). Lo que se entendió en su momento es que la tecnología de Viv Labs formaria la columna vertebral del nuevo asistente de inteligencia artificial. 
+
+Las demostraciones de Viv han sido impresionantes, destacando un asistente de voz que puede manejar solicitudes complejas con múltiples cláusulas (por ejemplo, "Viv, ¿cómo fue el clima en San Francisco hace tres jueves?"), Y que se conecta fácilmente a un número de servicios de terceros. Por ahora se entiende que Samsung decidió desarrollar esta inteligencia desde 0, netamente propia, obviando los avances y fuentes de datos que ya se tienen con otros asistentes mas avanzados.
+
+"Bixby edita fotos, envía mensajes y compone los correos electrónicos. En rigor, cualquier cosa que hagas en tu teléfono con toques, deberías poder hacerlo a través de tu voz con Bixby. También puedes controlar algunos electrodomésticos inteligentes y dispositivos Internet de las Cosas (IoT), incluidos frigoríficos inteligentes, televisores y docenas de otros dispositivos Samsung.
+
+Bixby también se ha expandido a otros productos. Ahora encontrarás compatibilidad con Bixby en algunos televisores inteligentes Samsung, refrigeradores Family Hub y otros productos inteligentes de Samsung. La bocina inteligente Galaxy Home compatible con Bixby también está en camino."
+
+Aunque al principio fue limitado, el soporte de idiomas de Bixby Voice se ha ampliado de manera constante. Ahora se encuentra soporte para español, francés, alemán e italiano, uniéndose a los soportes para coreano, inglés y chino simplificado
+
+Generalmente su NLP está basado en sistemas conversacionales y recuperación y extracción de información, aunque lleva algunos años solo ha logrado avanzar en una gran medida con el lenguaje coreano, seguido del ingles y con un pequeño avance en cuanto al idioma español. 
